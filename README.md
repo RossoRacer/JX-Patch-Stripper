@@ -1,9 +1,9 @@
 # JX Patch Stripper
 
-Strips out individual patches from banks of patches fro JX-8P/JX-10/MKS-70 and saves the in files.
+Strips out individual patches from patch banks of JX-8P/JX-10/MKS-70 banks and saves them in folders.
 
 ## 📱 Features
-- Feature 1 Drag and Drop simple interface.
+- Feature 1 - Simple Drag and Drop interface.
 
 ## 🛠 Tech Stack
 - **Language:** Swift / SwiftUI / UIKit
