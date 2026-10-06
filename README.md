@@ -8,6 +8,8 @@ Strips out individual patches from patch banks of JX-8P/JX-10/MKS-70 banks and s
 ## 📱 Features
 - Feature 1 - Simple Drag and Drop interface.
 
+- EXPERIMENTAL- Use at your own risk!
+
 ## 🛠 Tech Stack
 - **Language:** Swift / SwiftUI / UIKit
 - **Architecture:** MVVM / MVC
