@@ -26,4 +26,6 @@ Strips out individual patches from patch banks of JX-8P/JX-10/MKS-70 banks and s
    ```bash
    git clone [https://github.com/RossoRacer/JX-Patch-Stripper.git](https://github.com/RossoRacer/JX-Patch-Stripper.git)
 
+This project is not affiliated with or endorsed by Roland or its owners.
+
 Co-authored-by: Claude <noreply@anthropic.com>
